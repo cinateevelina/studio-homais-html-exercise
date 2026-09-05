@@ -12,6 +12,9 @@ body {
 
 img{
     border-radius: 20px;
+    width: calc(100%-40px);
+    margin: 10px;
+    display: block;
 }
 
 hr{ 
