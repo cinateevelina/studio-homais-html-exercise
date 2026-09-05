@@ -23,5 +23,10 @@ margin-top:10px;
 
 .top-font {
     font-family:Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 0.8;
     text-transform: uppercase;
+    margin-bottom: 20px;
 }
+
